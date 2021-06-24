@@ -11,3 +11,4 @@ This is my repo for LeetCode daily and contest challenge with Solution in `Pytho
 4 | [Pascal's Triangle](leetcode/4/Readme.md) | Easy | 2021-06-21 | Daily Challenge |
 5|[Number of Matching Subsequences](leetcode/5/Readme.md)|Medium| 2021-06-22 | Daily Challenge |
 6| [Reverse Linked List II](leetcode/6/Readme.md) | Medium | 2021-06-23 | Daily Challenge |
+7 | [Out of Boundary Paths](leetcode/7/Readme.md) | Medium | 2021-06-24 | Daily Challenge |
