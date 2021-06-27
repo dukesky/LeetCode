@@ -47,7 +47,7 @@
 ```python
 class Solution:
     def rotateGrid(self, grid: List[List[int]], k: int) -> List[List[int]]:
-        
+        ## implement one step rotate and rotate one by one
         def one_step_rotate(grid,layer):
             ## left
             pre = grid[layer][layer]
@@ -70,4 +70,34 @@ class Solution:
                 one_step_rotate(grid,layer)
                 
         return grid
+```
+
+## Solution 2.
+``` python
+class Solution:
+    def rotateGrid(self, grid: List[List[int]], k: int) -> List[List[int]]:
+        ## save the ring of numbers in a list, find the new position and assign numbers in list to the new position
+        m, n = len(grid), len(grid[0]) # dimensions 
+        
+        for r in range(min(m, n)//2): 
+            i = j = r
+            vals = []
+            for jj in range(j, n-j-1):     vals.append(grid[i][jj])
+            for ii in range(i, m-i-1):     vals.append(grid[ii][n-j-1])
+            for jj in range(n-j-1, j, -1): vals.append(grid[m-i-1][jj])
+            for ii in range(m-i-1, i, -1): vals.append(grid[ii][j])
+                
+            kk = k % len(vals)
+            vals = vals[kk:] + vals[:kk]
+            
+            x = 0  
+            for jj in range(j, n-j-1):     grid[i][jj] = vals[x]; x += 1
+            for ii in range(i, m-i-1):     grid[ii][n-j-1] = vals[x]; x += 1
+            for jj in range(n-j-1, j, -1): grid[m-i-1][jj] = vals[x]; x += 1
+            for ii in range(m-i-1, i, -1): grid[ii][j] = vals[x]; x += 1
+        return grid
+
+
+
+
 ```
