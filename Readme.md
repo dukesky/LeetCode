@@ -17,3 +17,4 @@ This is my repo for LeetCode daily and contest challenge with Solution in `Pytho
 10 | [Cyclically Rotating a Grid](leetcode/10/Readme.md)| Medium | 2021-06-26 |Contest Q2|
 11 | [Number of Wonderful Substrings](leetcode/11/Readme.md)| Medium | 2021-06-26 |Contest Q3|
 12 | [Count of Smaller Numbers After Self](leetcode/12/Readme.md)| Hard | 2021-06-26 |Daily Challenge|
+13 | [Candy](leetcode/13/Readme.md)| Hard | 2021-06-27 |Daily Challenge|
