@@ -13,3 +13,5 @@ This is my repo for LeetCode daily and contest challenge with Solution in `Pytho
 6| [Reverse Linked List II](leetcode/6/Readme.md) | Medium | 2021-06-23 | Daily Challenge |
 7 | [Out of Boundary Paths](leetcode/7/Readme.md) | Medium | 2021-06-24 | Daily Challenge |
 8 | [Redundant Connection](leetcode/8/Readme.md)| Medium | 2021-06-25 |Daily Challenge|
+9 | [Maximum Product Difference Between Two Pairs](leetcode/9/Readme.md)| Easy | 2021-06-26 |Contest Q1|
+10 | [Cyclically Rotating a Grid](leetcode/10/Readme.md)| Medium | 2021-06-26 |Contest Q2|
