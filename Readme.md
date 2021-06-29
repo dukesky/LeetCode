@@ -20,3 +20,4 @@ This is my repo for LeetCode daily and contest challenge with Solution in `Pytho
 13 | [Candy](leetcode/13/Readme.md)| Hard | 2021-06-27 |Daily Challenge|
 14 | [Remove All Adjacent Duplicates In String](leetcode/14/Readme.md)| Easy | 2021-06-28 |Daily Challenge|
 15 | [All Paths from Source Lead to Destination](leetcode/15/Readme.md)| Medium | 2021-06-28 |Daily Challenge|
+16 | [Max Consecutive Ones III](leetcode/16/Readme.md)| Medium | 2021-06-29 |Daily Challenge|
