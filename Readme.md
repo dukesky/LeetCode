@@ -18,3 +18,5 @@ This is my repo for LeetCode daily and contest challenge with Solution in `Pytho
 11 | [Number of Wonderful Substrings](leetcode/11/Readme.md)| Medium | 2021-06-26 |Contest Q3|
 12 | [Count of Smaller Numbers After Self](leetcode/12/Readme.md)| Hard | 2021-06-26 |Daily Challenge|
 13 | [Candy](leetcode/13/Readme.md)| Hard | 2021-06-27 |Daily Challenge|
+14 | [Remove All Adjacent Duplicates In String](leetcode/14/Readme.md)| Easy | 2021-06-28 |Daily Challenge|
+15 | [All Paths from Source Lead to Destination](leetcode/15/Readme.md)| Medium | 2021-06-28 |Daily Challenge|
