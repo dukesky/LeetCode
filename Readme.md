@@ -25,4 +25,4 @@ This is my repo for LeetCode daily and contest challenge with Solution in `Pytho
 18 | [Max Sum of Rectangle No Larger Than K](leetcode/18/Readme.md)| Hard | 2021-07-03 |Daily Challenge|
 19 | [Eliminate Maximum Number of Monsters](leetcode/19/Readme.md)| Medium | 2021-07-03 |Contest Q2|
 20 | [Count Good Numbers](leetcode/20/Readme.md)| Medium | 2021-07-03 |Contest Q3|
-21 | [Count Good Numbers](leetcode/20/Readme.md)| Hard | 2021-07-03 |Contest Q4|
+21 | [Longest Common Subpath](leetcode/21/Readme.md)| Hard | 2021-07-03 |Contest Q4|
