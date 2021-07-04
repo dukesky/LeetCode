@@ -22,3 +22,7 @@ This is my repo for LeetCode daily and contest challenge with Solution in `Pytho
 15 | [All Paths from Source Lead to Destination](leetcode/15/Readme.md)| Medium | 2021-06-28 |Daily Challenge|
 16 | [Max Consecutive Ones III](leetcode/16/Readme.md)| Medium | 2021-06-29 |Daily Challenge|
 17 | [Find K Closest Elements](leetcode/17/Readme.md)| Medium | 2021-07-02 |Daily Challenge|
+18 | [Max Sum of Rectangle No Larger Than K](leetcode/18/Readme.md)| Hard | 2021-07-03 |Daily Challenge|
+19 | [Eliminate Maximum Number of Monsters](leetcode/19/Readme.md)| Medium | 2021-07-03 |Contest Q2|
+20 | [Count Good Numbers](leetcode/20/Readme.md)| Medium | 2021-07-03 |Contest Q3|
+21 | [Count Good Numbers](leetcode/20/Readme.md)| Hard | 2021-07-03 |Contest Q4|
