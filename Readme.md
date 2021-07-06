@@ -29,3 +29,4 @@ This is my repo for LeetCode daily and contest challenge with Solution in `Pytho
 22 | [Count Vowels Permutation](leetcode/22/Readme.md)| Hard | 2021-07-04 |Daily Challenge|
 23 | [Reshape the Matrix](leetcode/23/Readme.md)| Easy | 2021-07-05 |Daily Challenge|
 24 | [Encode and Decode TinyURL](leetcode/24/Readme.md)| Medium | 2021-07-05 |Practice|
+25 | [Reduce Array Size to The Half](leetcode/25/Readme.md)| Medium | 2021-07-06 |Daily Challenge|
