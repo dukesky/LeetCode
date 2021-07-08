@@ -31,3 +31,4 @@ This is my repo for LeetCode daily and contest challenge with Solution in `Pytho
 24 | [Encode and Decode TinyURL](leetcode/24/Readme.md)| Medium | 2021-07-05 |Practice|
 25 | [Reduce Array Size to The Half](leetcode/25/Readme.md)| Medium | 2021-07-06 |Daily Challenge|
 26 | [Find Leaves of Binary Tree](leetcode/26/Readme.md)| Medium | 2021-07-07 |Daily Challenge|
+27 | [Kth Smallest Element in a Sorted Matrix](leetcode/27/Readme.md)| Medium | 2021-07-07 |Daily Challenge|
