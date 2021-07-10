@@ -33,3 +33,4 @@ This is my repo for LeetCode daily and contest challenge with Solution in `Pytho
 26 | [Find Leaves of Binary Tree](leetcode/26/Readme.md)| Medium | 2021-07-07 |Daily Challenge|
 27 | [Kth Smallest Element in a Sorted Matrix](leetcode/27/Readme.md)| Medium | 2021-07-07 |Daily Challenge|
 28 | [Maximum Length of Repeated Subarray](leetcode/28/Readme.md)| Medium | 2021-07-08 |Daily Challenge|
+29 | [Longest Increasing Subsequence](leetcode/29/Readme.md)| Medium | 2021-07-09 |Daily Challenge|
