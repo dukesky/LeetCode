@@ -36,3 +36,4 @@ This is my repo for LeetCode daily and contest challenge with Solution in `Pytho
 29 | [Longest Increasing Subsequence](leetcode/29/Readme.md)| Medium | 2021-07-09 |Daily Challenge|
 30 | [ Isomorphic Strings](leetcode/30/Readme.md)| Easy | 2021-07-12 |Daily Challenge|
 31 | [Reverse Words in a String II](leetcode/31/Readme.md)| Medium | 2021-07-12 |Daily Challenge|
+32 | [Find Peak Element](leetcode/32/Readme.md)| Medium | 2021-07-13 |Daily Challenge|
