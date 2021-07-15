@@ -49,7 +49,7 @@ class Solution:
         ## better solution
         ## solution2: sorted the nums at first, two loop to choose b and c, a is greate than b,c, use binary search to find the max possible a O(n^2*logn)
         
-        ## solution3: maintain three pointer to form a winder, slid in the sorted nums
+        ## solution3: maintain three pointer (i,j,k) to form a window, interate i,for each j find the last k, nums between j,k is the new add counts, then j+=1,find the further k O(n^2)
         if len(nums) < 3:
             return 0
         nums = sorted(nums)
