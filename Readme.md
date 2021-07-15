@@ -38,3 +38,4 @@ This is my repo for LeetCode daily and contest challenge with Solution in `Pytho
 31 | [Reverse Words in a String II](leetcode/31/Readme.md)| Medium | 2021-07-12 |Daily Challenge|
 32 | [Find Peak Element](leetcode/32/Readme.md)| Medium | 2021-07-13 |Daily Challenge|
 33 | [Custom Sort String](leetcode/33/Readme.md)| Medium | 2021-07-14 |Daily Challenge|
+34 | [Valid Triangle Number](leetcode/34/Readme.md)| Medium | 2021-07-15 |Daily Challenge|
