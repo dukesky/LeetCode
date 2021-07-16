@@ -39,3 +39,4 @@ This is my repo for LeetCode daily and contest challenge with Solution in `Pytho
 32 | [Find Peak Element](leetcode/32/Readme.md)| Medium | 2021-07-13 |Daily Challenge|
 33 | [Custom Sort String](leetcode/33/Readme.md)| Medium | 2021-07-14 |Daily Challenge|
 34 | [Valid Triangle Number](leetcode/34/Readme.md)| Medium | 2021-07-15 |Daily Challenge|
+35 | [4 Sum](leetcode/35/Readme.md)| Medium | 2021-07-16 |Daily Challenge|
