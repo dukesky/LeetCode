@@ -42,4 +42,5 @@ This is my repo for LeetCode daily and contest challenge with Solution in `Pytho
 35 | [4 Sum](leetcode/35/Readme.md)| Medium | 2021-07-16 |Daily Challenge|
 36 | [Three Equal Parts](leetcode/36/Readme.md)| Hard | 2021-07-17 |Daily Challenge|
 37 | [Reverse Nodes in k-Group](leetcode/37/Readme.md)| Hard | 2021-07-19 |Daily Challenge|
-38 | [Lowest Common Ancestor of a Binary Search Tree](leetcode/38/Readme.md)| Medium | 2021-07-19 |Daily Challenge|
+38 | [Lowest Common Ancestor of a Binary Search Tree](leetcode/38/Readme.md)| Easy | 2021-07-19 |Daily Challenge|
+39 | [Lowest Common Ancestor of a Binary Search Tree](leetcode/39/Readme.md)| Medium | 2021-07-20 |Daily Challenge|
