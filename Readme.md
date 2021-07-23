@@ -47,3 +47,4 @@ This is my repo for LeetCode daily and contest challenge with Solution in `Pytho
 40 | [Push Dominoes](leetcode/40/Readme.md)| Medium | 2021-07-21 |Daily Challenge|
 41 | [Range Addition](leetcode/41/Readme.md)| Medium | 2021-07-21 |Daily Challenge|
 42 | [Partition Array into Disjoint Intervals](leetcode/42/Readme.md)| Medium | 2021-07-22 |Daily Challenge|
+43 | [Binary Tree Pruning](leetcode/42/Readme.md)| Medium | 2021-07-23 |Daily Challenge|
