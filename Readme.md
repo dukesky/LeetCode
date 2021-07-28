@@ -50,3 +50,4 @@ This is my repo for LeetCode daily and contest challenge with Solution in `Pytho
 43 | [Binary Tree Pruning](leetcode/43/Readme.md)| Medium | 2021-07-23 |Daily Challenge|
 44 | [Convert Sorted Array to Binary Search Tree](leetcode/44/Readme.md)| Easy | 2021-07-26 |Daily Challenge|
 45 | [Alien Dictionary](leetcode/45/Readme.md)| Hard | 2021-07-26 |Daily Challenge|
+46 | [3Sum Closest](leetcode/46/Readme.md)| Medium | 2021-07-27 |Daily Challenge|
