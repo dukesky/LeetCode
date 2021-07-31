@@ -52,3 +52,4 @@ This is my repo for LeetCode daily and contest challenge with Solution in `Pytho
 45 | [Alien Dictionary](leetcode/45/Readme.md)| Hard | 2021-07-26 |Daily Challenge|
 46 | [3Sum Closest](leetcode/46/Readme.md)| Medium | 2021-07-27 |Daily Challenge|
 47 | [01 Matrix](leetcode/47/Readme.md)| Medium | 2021-07-30 |Daily Challenge|
+48 | [Map Sum Pairs](leetcode/48/Readme.md)| Medium | 2021-07-31 |Daily Challenge|
