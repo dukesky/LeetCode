@@ -73,7 +73,14 @@ class Solution:
         
             
             
-        
-        ## solution2: is it possible maintain 4 direction distance to one?
+
+```
+
+## solution 2.
+
+```py
+## DP
+## for each position, calculate it's distance as min(left,upper)+1 
+## then calculate it's distance as min(right, down)
 
 ```
