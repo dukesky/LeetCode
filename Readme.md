@@ -54,4 +54,5 @@ This is my repo for LeetCode daily and contest challenge with Solution in `Pytho
 47 | [01 Matrix](leetcode/47/Readme.md)| Medium | 2021-07-30 |Daily Challenge|
 48 | [Map Sum Pairs](leetcode/48/Readme.md)| Medium | 2021-07-31 |Daily Challenge|
 49 | [Trapping Rain Water](leetcode/49/Readme.md)| Hard(really?) | 2021-07-31 |Daily Challenge|
-50 | [Making A Large Island](leetcode/49/Readme.md)| Hard | 2021-08-01 |Daily Challenge|
+50 | [Making A Large Island](leetcode/50/Readme.md)| Hard | 2021-08-01 |Daily Challenge|
+51 | [Subsets II](leetcode/51/Readme.md)| Medium | 2021-08-03 |Daily Challenge|
