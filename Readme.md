@@ -2,6 +2,8 @@
 
 This is my repo for LeetCode daily and contest challenge with Solution in `Python`
 
+Will update with problem and my solution with simple explaination.
+
 --
 |\# |Title |Difficulty | Update Time | From |
 |---|------|----------|--------------|--------|
@@ -57,3 +59,4 @@ This is my repo for LeetCode daily and contest challenge with Solution in `Pytho
 50 | [Making A Large Island](leetcode/50/Readme.md)| Hard | 2021-08-01 |Daily Challenge|
 51 | [Subsets II](leetcode/51/Readme.md)| Medium | 2021-08-03 |Daily Challenge|
 52 | [Path Sum II](leetcode/52/Readme.md)| Medium | 2021-08-05 |Daily Challenge|
+53 | [Stone Game](leetcode/53/Readme.md)| Medium | 2021-08-05 |Daily Challenge|
