@@ -60,3 +60,4 @@ Will update with problem and my solution with simple explaination.
 51 | [Subsets II](leetcode/51/Readme.md)| Medium | 2021-08-03 |Daily Challenge|
 52 | [Path Sum II](leetcode/52/Readme.md)| Medium | 2021-08-05 |Daily Challenge|
 53 | [Stone Game](leetcode/53/Readme.md)| Medium | 2021-08-05 |Daily Challenge|
+54 | [N-ary Tree Level Order Traversal](leetcode/54/Readme.md)| Medium | 2021-08-06 |Daily Challenge|
