@@ -62,3 +62,4 @@ Will update with problem and my solution with simple explaination.
 53 | [Stone Game](leetcode/53/Readme.md)| Medium | 2021-08-05 |Daily Challenge|
 54 | [N-ary Tree Level Order Traversal](leetcode/54/Readme.md)| Medium | 2021-08-06 |Daily Challenge|
 55 | [Optimize Water Distribution in a Village](leetcode/55/Readme.md)| Hard | 2021-08-06 |Daily Challenge|
+56 | [Palindrome Partitioning II](leetcode/56/Readme.md)| Hard | 2021-08-07 |Daily Challenge|
