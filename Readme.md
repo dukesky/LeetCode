@@ -63,3 +63,6 @@ Will update with problem and my solution with simple explaination.
 54 | [N-ary Tree Level Order Traversal](leetcode/54/Readme.md)| Medium | 2021-08-06 |Daily Challenge|
 55 | [Optimize Water Distribution in a Village](leetcode/55/Readme.md)| Hard | 2021-08-06 |Daily Challenge|
 56 | [Palindrome Partitioning II](leetcode/56/Readme.md)| Hard | 2021-08-07 |Daily Challenge|
+57 | [Remove Stones to Minimize the Total](leetcode/57/Readme.md)| Medium | 2021-08-07 |Contest Challenge|
+58 | [Minimum Number of Swaps to Make the String Balanced](leetcode/58/Readme.md)| Medium | 2021-08-07 |Contest Challenge|
+59 | [Find the Longest Valid Obstacle Course at Each Position](leetcode/59/Readme.md)| Hard | 2021-08-07 |Contest Challenge|
