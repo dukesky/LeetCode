@@ -131,7 +131,77 @@ class Solution:
 ## Solution 2.
 
 ```py
-
+    ## solution2 optimized
+    ## 1. for max value earch in row and col for one point, maintain two list, MaxRow and MaxCol, update in each iteration, then we can use O(1) time to find max value in specific row and col
+    ## 2. avoid use BFS to find all same number share row or col, use Union find, which will cost log(N)+log(M) instead of O(M+N)
+    
+class Solution:
+    def matrixRankTransform(self, matrix: List[List[int]]) -> List[List[int]]:
+        
+        ## total O(MN(log(N))) N- # of rows, M - # of cols
+        ## first use a dictionary to store all row,col for val
+        num_dict = defaultdict(list)
+        for row in range(len(matrix)):
+            for col in range(len(matrix[0])):
+                num_dict[matrix[row][col]].append((row,col))
+        # print(num_dict)
+        
+        ## find all ranks, for numbers from small to large, search from MaxRow and MaxCol, rank would be + 1, update MaxRow, MaxCol 
+        ## if find same value in the same row/colum, put them in set, find the max rank, apply to all in set 
+        res = [[0 for _ in range(len(matrix[0]))] for _ in range(len(matrix))]
+        MaxRow = [0 for _ in range(len(matrix))]
+        MaxCol = [0 for _ in range(len(matrix[0]))]
+        track_nums = sorted(num_dict.keys())
+        
+        for num in track_nums:       ## iterate through times O(MN)
+            if len(num_dict[num]) == 1:  # no duplicate num
+                row = num_dict[num][0][0]
+                col = num_dict[num][0][1]
+                res[row][col] = max(MaxRow[row],MaxCol[col])+1 # find max O(M+N)
+                MaxRow[row] = res[row][col]
+                MaxCol[col] = res[row][col]
+            else:
+                num_set = set(num_dict[num]) ## have duplicate num, check if share same value first 
+                col_dict = defaultdict(list)
+                row_dict = defaultdict(list)
+                for (row,col) in num_set:
+                    col_dict[col].append(row)
+                    row_dict[row].append(col)
+                    
+                while num_set:
+                    row,col = num_set.pop()
+                    ## find save value share row/col of cur value, use BFS to find all  O(M+N) (could also use UNION FIND which cost less time?)
+                    share_set = set([(row,col)])
+                    queue = collections.deque([(row,col)])
+                    while queue:
+                        for _ in range(len(queue)):
+                            (row,col) = queue.pop()
+                            for i in col_dict[col]:
+                                if i!=row and  (i,col) not in share_set:
+                                    queue.appendleft((i,col))
+                                    share_set.add((i,col))
+                                    num_set.remove((i,col))
+                            for j in row_dict[row]:
+                                if j!=col and (row,j) not in share_set:
+                                    queue.appendleft((row,j))
+                                    share_set.add((row,j))
+                                    num_set.remove((row,j))
+                    # print('share_set',share_set)
+                    ## find max_rank shared for all same value number
+                    max_val = 0
+                    for row,col in share_set:
+                        this_max =  max(MaxRow[row],MaxCol[col])
+                        if this_max > max_val:
+                            max_val = this_max
+                    ## update max_val to all share set
+                    for row,col in share_set:
+                        res[row][col] = max_val+1
+                        MaxRow[row] = res[row][col]
+                        MaxCol[col] = res[row][col]
+                    
+        return res
+    
+    
 ```
 
 ## Solution 3.
