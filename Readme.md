@@ -67,3 +67,4 @@ Will update with problem and my solution with simple explaination.
 58 | [Minimum Number of Swaps to Make the String Balanced](leetcode/58/Readme.md)| Medium | 2021-08-07 |Contest Challenge|
 59 | [Find the Longest Valid Obstacle Course at Each Position](leetcode/59/Readme.md)| Hard | 2021-08-07 |Contest Challenge|
 60 | [Rank Transform of a Matrix](leetcode/60/Readme.md)| Hard | 2021-08-08 |Daily Challenge|
+61 | [ Paint Fence](leetcode/61/Readme.md)| Medium | 2021-08-09 |Daily Challenge|
