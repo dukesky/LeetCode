@@ -69,3 +69,4 @@ Will update with problem and my solution with simple explaination.
 60 | [Rank Transform of a Matrix](leetcode/60/Readme.md)| Hard | 2021-08-08 |Daily Challenge|
 61 | [ Paint Fence](leetcode/61/Readme.md)| Medium | 2021-08-09 |Daily Challenge|
 62 | [Flip String to Monotone Increasing](leetcode/62/Readme.md)| Medium | 2021-08-10 |Daily Challenge|
+63 | [Array of Doubled Pairs](leetcode/63/Readme.md)| Medium | 2021-08-11 |Daily Challenge|
