@@ -71,3 +71,4 @@ Will update with problem and my solution with simple explaination.
 62 | [Flip String to Monotone Increasing](leetcode/62/Readme.md)| Medium | 2021-08-10 |Daily Challenge|
 63 | [Array of Doubled Pairs](leetcode/63/Readme.md)| Medium | 2021-08-11 |Daily Challenge|
 64 | [Group Anagrams](leetcode/64/Readme.md)| Medium | 2021-08-12 |Daily Challenge|
+65 | [Set Matrix Zeroes](leetcode/65/Readme.md)| Medium | 2021-08-13 |Daily Challenge|
