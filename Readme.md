@@ -74,3 +74,4 @@ Will update with problem and my solution with simple explaination.
 65 | [Set Matrix Zeroes](leetcode/65/Readme.md)| Medium | 2021-08-13 |Daily Challenge|
 66 | [Decode Ways](leetcode/66/Readme.md)| Medium | 2021-08-18 |Daily Challenge|
 67 | [Maximum Product of Splitted Binary Tree](leetcode/67/Readme.md)| Medium | 2021-08-19 |Daily Challenge|
+68 | [Paint House II](leetcode/68/Readme.md)| Hard | 2021-08-19 |Daily Challenge|
