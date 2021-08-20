@@ -75,3 +75,4 @@ Will update with problem and my solution with simple explaination.
 66 | [Decode Ways](leetcode/66/Readme.md)| Medium | 2021-08-18 |Daily Challenge|
 67 | [Maximum Product of Splitted Binary Tree](leetcode/67/Readme.md)| Medium | 2021-08-19 |Daily Challenge|
 68 | [Paint House II](leetcode/68/Readme.md)| Hard | 2021-08-19 |Daily Challenge|
+69 | [Valid Sudoku](leetcode/69/Readme.md)| Medium | 2021-08-20 |Daily Challenge|
