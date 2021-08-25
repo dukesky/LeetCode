@@ -76,3 +76,4 @@ Will update with problem and my solution with simple explaination.
 67 | [Maximum Product of Splitted Binary Tree](leetcode/67/Readme.md)| Medium | 2021-08-19 |Daily Challenge|
 68 | [Paint House II](leetcode/68/Readme.md)| Hard | 2021-08-19 |Daily Challenge|
 69 | [Valid Sudoku](leetcode/69/Readme.md)| Medium | 2021-08-20 |Daily Challenge|
+70 | [Sum of Square Numbers](leetcode/70/Readme.md)| Medium | 2021-08-25 |Daily Challenge|
