@@ -78,3 +78,4 @@ Will update with problem and my solution with simple explaination.
 69 | [Valid Sudoku](leetcode/69/Readme.md)| Medium | 2021-08-20 |Daily Challenge|
 70 | [Sum of Square Numbers](leetcode/70/Readme.md)| Medium | 2021-08-25 |Daily Challenge|
 71 | [Patching Array](leetcode/71/Readme.md)| Hard | 2021-08-29 |Daily Challenge|
+72 | [Equal Tree Partition](leetcode/712Readme.md)| Medium | 2021-08-30 |Daily Challenge|
