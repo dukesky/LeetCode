@@ -81,3 +81,4 @@ Will update with problem and my solution with simple explaination.
 72 | [Equal Tree Partition](leetcode/72/Readme.md)| Medium | 2021-08-30 |Daily Challenge|
 73 | [Range Addition II](leetcode/73/Readme.md)| Easy | 2021-08-30 |Daily Challenge|
 74 | [Coin Change](leetcode/74/Readme.md)| Medium | 2021-09-02 |Daily Challenge|
+75 | [Slowest key](leetcode/75/Readme.md)| Easy | 2021-09-06 |Daily Challenge|
