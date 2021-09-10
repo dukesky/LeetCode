@@ -84,3 +84,4 @@ Will update with problem and my solution with simple explaination.
 75 | [Slowest key](leetcode/75/Readme.md)| Easy | 2021-09-06 |Daily Challenge|
 76 | [Maximum Average Subtree](leetcode/76/Readme.md)| Medium | 2021-09-06 |Daily Challenge|
 77 | [Reverse LinkedList](leetcode/77/Readme.md)| Easy | 2021-09-07 |Daily Challenge|
+78 | [Arithmetic Slices II - Subsequence](leetcode/78/Readme.md)| Hard | 2021-09-10 |Daily Challenge|
