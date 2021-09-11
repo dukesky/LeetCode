@@ -70,6 +70,8 @@ class Solution:
 ## Solution 2.
 
 ```py
+class Solution:
+    def orderOfLargestPlusSign(self, n: int, mines: List[List[int]]) -> int:
         ## use four matrix to store consequence 1 from left,right,up,down
         ## then for each position, check these four direction and get max_length
         ## O(n^2)
