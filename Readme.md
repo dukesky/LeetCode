@@ -86,3 +86,4 @@ Will update with problem and my solution with simple explaination.
 77 | [Reverse LinkedList](leetcode/77/Readme.md)| Easy | 2021-09-07 |Daily Challenge|
 78 | [Arithmetic Slices II - Subsequence](leetcode/78/Readme.md)| Hard | 2021-09-10 |Daily Challenge|
 79 | [Largest Plus Sign](leetcode/79/Readme.md)| Hard | 2021-09-10 |Daily Challenge|
+80 | [Basic Calculator](leetcode/80/Readme.md)| Hard | 2021-09-11 |Daily Challenge|
