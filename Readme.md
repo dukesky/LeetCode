@@ -88,3 +88,4 @@ Will update with problem and my solution with simple explaination.
 79 | [Largest Plus Sign](leetcode/79/Readme.md)| Hard | 2021-09-10 |Daily Challenge|
 80 | [Basic Calculator](leetcode/80/Readme.md)| Hard | 2021-09-11 |Daily Challenge|
 81 | [Maximum Number of Balloons](leetcode/81/Readme.md)|Easy | 2021-09-13 |Daily Challenge|
+82 | [Verifying an Alien Dictionary](leetcode/82/Readme.md)|Easy | 2021-09-13 |Facebook|
