@@ -92,3 +92,4 @@ Will update with problem and my solution with simple explaination.
 83 | [Task Scheduler](leetcode/83/Readme.md)| Medium | 2021-09-13 |Facebook|
 84 | [Reverse Only Letters](leetcode/84/Readme.md)| Easy | 2021-09-14 |Daily Challenge|
 85 | [Longest Turbulent Subarray](leetcode/85/Readme.md)| Medium | 2021-09-16 |Daily Challenge|
+86 | [Spiral Matrix](leetcode/86/Readme.md)| Medium | 2021-09-16 |Daily Challenge|
