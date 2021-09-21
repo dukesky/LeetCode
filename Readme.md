@@ -95,3 +95,4 @@ Will update with problem and my solution with simple explaination.
 86 | [Spiral Matrix](leetcode/86/Readme.md)| Medium | 2021-09-16 |Daily Challenge|
 87 | [Find Winner on a Tic Tac Toe Game](leetcode/87/Readme.md)| Medium | 2021-09-20 |Daily Challenge|
 88 | [Minimize Max Distance to Gas Station](leetcode/88/Readme.md)| Hard | 2021-09-20 |Daily Challenge|
+89 | [Max Consecutive Ones](leetcode/89/Readme.md)| Easy | 2021-09-21 |Daily Challenge|
