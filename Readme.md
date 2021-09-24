@@ -98,3 +98,4 @@ Will update with problem and my solution with simple explaination.
 89 | [Max Consecutive Ones](leetcode/89/Readme.md)| Easy | 2021-09-21 |Daily Challenge|
 90 | [Break a Palindrome](leetcode/90/Readme.md)| Medium | 2021-09-23 |Daily Challenge|
 91 | [Shortest Distance from All Buildings](leetcode/91/Readme.md)| Hard | 2021-09-23 |Daily Challenge|
+92 | [N-th Tribonacci Number](leetcode/92/Readme.md)| Easy | 2021-09-24 |Daily Challenge|
