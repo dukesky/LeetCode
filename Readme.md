@@ -102,3 +102,4 @@ Will update with problem and my solution with simple explaination.
 93 | [Buildings With an Ocean View](leetcode/93/Readme.md)| Medium | 2021-09-24 | Facebook Challenge|
 94 | [Shortest Path in a Grid with Obstacles Elimination](leetcode/94/Readme.md)| Hard | 2021-09-25 | Daily Challenge|
 95 | [Island Perimeter](leetcode/95/Readme.md)| Easy | 2021-10-03 | Daily Challenge|
+96 | [Leftmost Column with at Least a One](leetcode/96/Readme.md)| Medium | 2021-10-04 | Daily Challenge|
