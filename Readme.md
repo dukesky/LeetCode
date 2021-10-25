@@ -107,3 +107,4 @@ Will update with problem and my solution with simple explaination.
 98 | [K Closest Points to Origin](leetcode/98/Readme.md)| Medium | 2021-10-05 | Facebook |
 99 | [Convert Binary Search Tree to Sorted Doubly Linked List](leetcode/99/Readme.md)| Medium | 2021-10-07 | Daily Challenge |
 100 | [Word Search](leetcode/100/Readme.md)| Medium | 2021-10-07 | Daily Challenge |
+101 | [Min Stack](leetcode/101/Readme.md)| Easy | 2021-10-24 | Daily Challenge |
